@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>xhuyz_dotnet_clean_architechture.Domain</RootNamespace>
+    <AssemblyName>xhuyz_dotnet_clean_architechture.Domain</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" />
+  </ItemGroup>
+
+</Project>

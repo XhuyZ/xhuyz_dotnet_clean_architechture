@@ -1,0 +1,6 @@
+﻿global using xhuyz_dotnet_clean_architechture.Domain.Common;
+global using xhuyz_dotnet_clean_architechture.Domain.Entities;
+global using xhuyz_dotnet_clean_architechture.Domain.Enums;
+global using xhuyz_dotnet_clean_architechture.Domain.Events;
+global using xhuyz_dotnet_clean_architechture.Domain.Exceptions;
+global using xhuyz_dotnet_clean_architechture.Domain.ValueObjects;
